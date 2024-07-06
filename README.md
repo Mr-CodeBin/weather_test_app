@@ -16,6 +16,10 @@ Get your API Key from OpenWeatherMap Website:
 2.  signup or login account for dev weather api
 3.  go to https://home.openweathermap.org/api_keys and get your api_key
 4.  copy-paste that key into lib\services\weather_service.dart file
+
+   
  ![image](https://github.com/Mr-CodeBin/weather_test_app/assets/109690866/04454860-9b75-46ac-9cdf-45a310739a89)
 
+
+5. Build your Project and you are good to go.
 
